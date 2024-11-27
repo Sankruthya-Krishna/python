@@ -2,15 +2,15 @@ print("hello world my first program in python")
 # name="honey"
 # age=21
 # a= None
-# x=2
-# y=6
+x=2
+y=6
 # val1=True
 # val2=False
-# sum=x+y
-# sub=y-x
-# mul=x*y
-# div=x/y
-# #print("sum is:",sum)
+sum=x+y
+sub=y-x
+mul=x*y
+div=x/y
+print("sum is:",sum)
 # print("ans operator:",val1 and val2)
 # print("ans operator:",val1 or val2)
 # print("ans operator:",x and y)
